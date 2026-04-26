@@ -26,3 +26,17 @@
 - Creación de columnas 'exceso_velocidad_real' y 'exceso_velocidad' incluyendo margen técnico del 5%.
 - Eliminación de registros que no constituyen infracción bajo el umbral legal.
 - Almacenamiento del dataset procesado en 'data/interim/'.
+
+## Día 4
+- Análisis de infracciones por ubicación completado.
+
+## Día 4
+- Calculo de exceso de velocidad.
+- Creacion de la clase FineAnalyzer.
+- Creacion de los rankings.
+
+## Día 4
+- Análisis de infracciones por ubicación completado.
+- Calculo de exceso de velocidad.
+- Creacion de la clase FineAnalyzer.
+- Creacion de los rankings.
