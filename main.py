@@ -32,7 +32,7 @@ def main():
   print(df_infracciones[['patente', 'exceso_velocidad']].head(10))
   
   # Persistimos a interim el Dataframe
-  ruta_salida = Path("data/interim/speeding_fines_final.csv")
+  ruta_salida = Path("data/interim/speeding_fines.csv")
   df_infracciones.to_csv(ruta_salida, index=False)
 
 if __name__ == "__main__":
