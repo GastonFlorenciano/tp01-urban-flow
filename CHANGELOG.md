@@ -40,3 +40,18 @@
 - Calculo de exceso de velocidad.
 - Creacion de la clase FineAnalyzer.
 - Creacion de los rankings.
+
+## Día 4
+- Calculo de exceso de velocidad.
+- Creacion de la clase FineAnalyzer.
+- Creacion de los rankings.
+
+## Día 5
+- Creación de gráficos de barras (meses), torta (horas) e histogramas (patentes).
+- Implementación de gráficos de líneas para análisis de variabilidad en datos recuperados.
+- Validación de infracciones reales (velocidad registrada > permitida) en los gráficos de líneas.
+- Exportación automática de visualizaciones a la carpeta interim/plots.
+
+## Día 6
+- Cálculo del porcentaje de infracciones con fecha de error (1932-01-01).
+- Cálculo del porcentaje de infracciones ocurridas a las 00:00.
